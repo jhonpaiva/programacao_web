@@ -1,0 +1,24 @@
+header{
+    background-color: #2a3f54;
+    color: #ededed;
+}
+
+nav{
+    background-color: #e7e7e7;
+    color: #2a3f54;
+    min-height: 400px;
+}
+
+section{
+    color: #2a3f54;
+    background-color: #f7f7f7;
+}
+
+footer{
+    background-color: #2a3f54;
+    color: #ededed;
+}
+
+a:link, a:visited, a:hover, a:active{
+    text-decoration: none;
+}
